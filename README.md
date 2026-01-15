@@ -1,5 +1,7 @@
 
 ```
+[aval@arch ~]> fastfetch && ls ~/readme
+
                   -`
                  .o+`                    ┌──────────────────────Hardware──────────────────────┐
                 `ooo/                    │ PC: 20XY00GSUS (ThinkPad X1 Yoga Gen 6)
@@ -15,15 +17,14 @@
       -osssssso.      :ssssssso.         │ ├pkgs: 420 (pacman), 69 (flatpak)
      :osssssss/        osssso+++.        └ └shell: fish 4.2.1
     /ossssssss/        +ssssooo/-
-  `/ossssso+/:-        -:/+osssso+-        DE: KDE Plasma 6.7.lol
+  `/ossssso+/:-        -:/+osssso+-      ┌────────────────────DE: Hyprland────────────────────┐  
  `+sso+:-`                 `.-/+oso:     │ ├lm: sddm 0.21.0 (Wayland)
 `++:.                           `-/+/    │ ├wm: KWin (Wayland)
-.`                                 `/    │ ├wmtheme: Klassy
-                                         └ └gpu: i915
+.`                                 `/    └ └wmtheme: nord
                                          └────────────────────────────────────────────────────┘
 "don't listen to everybody, you should pick very specific people that you listen to"
 -diinki
 
-[aval@arch ~]> ls ~/aboutme
 She\ Her  mass  mwcc  lesbian
+[aval@arch ~]>
 ```
