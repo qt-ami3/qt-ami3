@@ -25,6 +25,6 @@
 "don't listen to everybody, you should pick very specific people that you listen to"
 -diinki
 
-She\ Her  mass  mwcc  lesbian
+She\ Her  mass  mwcc
 [aval@arch ~]>
 ```
