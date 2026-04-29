@@ -1,27 +1,24 @@
-
 ```
 [aval@arch ~]> fastfetch && tail ~/aboutme/README
 
-                  -`
-                 .o+`                    ┌──────────────────────Hardware──────────────────────┐
-                `ooo/                    │ PC: 20XY00GSUS (ThinkPad X1 Yoga Gen 6)
-               `+oooo:                   │ ├cpu: 11th Gen Intel(R) Core(TM) i7-1185G7 (8) @ 4.80 GHz
-              `+oooooo:                  │ ├ram: 7.27 GiB / 15.32 GiB (47%)
-              -+oooooo+:                 │ └storage: 37.58 GiB / 475.94 GiB (8%) - btrfs
-            `/:-:++oooo+:                └────────────────────────────────────────────────────┘
-           `/++++/+++++++:               
-          `/++++++++++++++:
-         `/+++ooooooooooooo/`            ┌──────────────────────Software──────────────────────┐
-        ./ooosssso++osssssso+`           │ OS: Arch Linux x86_64
-       .oossssso-````/ossssss+`          │ ├ver: Linux 6.18.2-arch2-1
-      -osssssso.      :ssssssso.         │ ├pkgs: 420 (pacman), 69 (flatpak)
-     :osssssss/        osssso+++.        └ └shell: fish 4.2.1
-    /ossssssss/        +ssssooo/-
-  `/ossssso+/:-        -:/+osssso+-      ┌────────────────────DE: Hyprland────────────────────┐  
- `+sso+:-`                 `.-/+oso:     │ ├lm: sddm 0.21.0 (Wayland)
-`++:.                           `-/+/    │ ├wm: KWin (Wayland)
-.`                                 `/    └ └wmtheme: nord
-                                         └────────────────────────────────────────────────────┘
+         -/oyddmdhs+:.
+     -odNMMMMMMMMNNmhy+-`              ┌─────────────────Hardware─────────────────┐
+   -yNMMMMMMMMMMMNNNmmdhy+-             PC: 20XY00GSUS (ThinkPad X1 Yoga Gen 6)
+ `omMMMMMMMMMMMMNmdmmmmddhhy/`         │ ├: aknu ♅
+ omMMMMMMMMMMMNhhyyyohmdddhhhdo`       │ ├󰍛: 6.58 GiB / 15.31 GiB (43%)
+.ydMMMMMMMMMMdhs++so/smdddhhhhdm+`     └ └: 160.65 GiB / 891.21 GiB (18%) - ext4
+ oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.    └──────────────────────────────────────────┘
+  :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh    ┌─────────────────Software─────────────────┐
+    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy     OS: Gentoo Linux x86_64
+       /mMMMMMMNNNmmmdddhhhhhmMNhs:    │ ├: Linux 7.0.0-gentoo
+    `oNMMMMMMMNNNmmmddddhhdmMNhs+`     │ ├󰏖: 944 (emerge)
+  `sNMMMMMMMMNNNmmmdddddmNMmhs/.       └ └: fish 4.6.0
+ /NMMMMMMMMNNNNmmmdddmNMNdso:`          DE: KDE Plasma
++MMMMMMMNNNNNmmmmdmNMNdso/-            │ ├: lightdm 1.32.0 (Wayland)
+yMMNNNNNNNmmmmmNNMmhs+/-`              └ └: niri 25.08 (Wayland)
+/hMMNNNNNNNNMNdhs++/-`                 └──────────────────────────────────────────┘
+`/ohdmmddhys+++/:.`
+  `-//////:--.
 "don't listen to everybody, you should pick very specific people that you listen to"
 -diinki
 
