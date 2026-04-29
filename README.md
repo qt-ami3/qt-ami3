@@ -1,5 +1,5 @@
 ```
-[aval@arch ~]> fastfetch && tail ~/aboutme/README
+[aval@gentoo ~]> fastfetch && tail ~/aboutme/README
 
          -/oyddmdhs+:.
      -odNMMMMMMMMNNmhy+-`              ┌─────────────────Hardware─────────────────┐
@@ -23,5 +23,5 @@ yMMNNNNNNNmmmmmNNMmhs+/-`              └ └: niri 25.08 (Wayland)
 -diinki
 
 She\ Her  mass  mwcc
-[aval@arch ~]>
+[aval@gentoo ~]>
 ```
